@@ -34,8 +34,8 @@ string GetPasswordText()
 }
 
 // API Key 和代理URL
-string api_key = "sk-NK7v9mi98wA04Mez0100B69b2c7642249455E71844Af1dA9";
-string api_url = "https://api.xty.app/v1/chat/completions";
+string api_key = "";
+string api_url = "";
 
 array<string> LangTable = 
 {
